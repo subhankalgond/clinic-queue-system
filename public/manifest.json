@@ -1,0 +1,16 @@
+{
+  "name": "Aapka Clinic Queue Management System",
+  "short_name": "Aapka Clinic",
+  "description": "Real-time clinic queue management, online tokens, and doctor consultation system",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF8F5",
+  "theme_color": "#0D4E3C",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
